@@ -1,0 +1,6 @@
+{
+  "name": "FITFORM - 3D Virtual Wardrobe & Streetwear Studio",
+  "description": "Interactive 3D virtual wardrobe and streetwear styling atelier. Dress a realistic 3D avatar in tees, hoodies, jackets, cargos, and sneakers with custom materials, lighting presets, and outfit lookbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
